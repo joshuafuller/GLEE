@@ -1,9 +1,53 @@
+
+
+
+<div align=center>
+  <img src="assets/images/GLEE_logo.png" width=900 >
+</div>
+
 # GLEE: General Object Foundation Model for Images and Videos at Scale
+
 > #### Junfeng Wu\*, Yi Jiang\*,  Qihao Liu, Zehuan Yuan, Xiang Bai<sup>&dagger;</sup>,and Song Bai<sup>&dagger;</sup>
 >
 > \* Equal Contribution, <sup>&dagger;</sup>Correspondence
 
-\[[Project Page](https://glee-vision.github.io/)\]   \[[Paper](https://arxiv.org/pdf/.pdf)\]    \[[HuggingFace Demo](https://huggingface.co/spaces/Junfeng5/GLEE_demo)\] 
+\[[Project Page](https://glee-vision.github.io/)\]   \[[Paper](https://arxiv.org/pdf/.pdf)\]    \[[HuggingFace Demo](https://huggingface.co/spaces/Junfeng5/GLEE_demo)\]   \[[Video Demo](https://youtu.be/PSVhfTPx0GQ)\]  
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/long-tail-video-object-segmentation-on-burst-1)](https://paperswithcode.com/sota/long-tail-video-object-segmentation-on-burst-1?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/video-instance-segmentation-on-ovis-1)](https://paperswithcode.com/sota/video-instance-segmentation-on-ovis-1?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/referring-video-object-segmentation-on-refer)](https://paperswithcode.com/sota/referring-video-object-segmentation-on-refer?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/referring-expression-segmentation-on-refer-1)](https://paperswithcode.com/sota/referring-expression-segmentation-on-refer-1?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/multi-object-tracking-on-tao)](https://paperswithcode.com/sota/multi-object-tracking-on-tao?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/open-world-instance-segmentation-on-uvo)](https://paperswithcode.com/sota/open-world-instance-segmentation-on-uvo?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/referring-expression-segmentation-on-refcoco)](https://paperswithcode.com/sota/referring-expression-segmentation-on-refcoco?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/referring-expression-segmentation-on-refcocog)](https://paperswithcode.com/sota/referring-expression-segmentation-on-refcocog?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/video-instance-segmentation-on-youtube-vis-1)](https://paperswithcode.com/sota/video-instance-segmentation-on-youtube-vis-1?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/object-detection-on-lvis-v1-0-val)](https://paperswithcode.com/sota/object-detection-on-lvis-v1-0-val?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/instance-segmentation-on-lvis-v1-0-val)](https://paperswithcode.com/sota/instance-segmentation-on-lvis-v1-0-val?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/referring-expression-comprehension-on-refcoco)](https://paperswithcode.com/sota/referring-expression-comprehension-on-refcoco?p=general-object-foundation-model-for-images)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/referring-expression-segmentation-on-refcoco-3)](https://paperswithcode.com/sota/referring-expression-segmentation-on-refcoco-3?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/instance-segmentation-on-coco-minival)](https://paperswithcode.com/sota/instance-segmentation-on-coco-minival?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/referring-expression-comprehension-on)](https://paperswithcode.com/sota/referring-expression-comprehension-on?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/instance-segmentation-on-coco)](https://paperswithcode.com/sota/instance-segmentation-on-coco?p=general-object-foundation-model-for-images)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/referring-expression-comprehension-on-refcoco-1)](https://paperswithcode.com/sota/referring-expression-comprehension-on-refcoco-1?p=general-object-foundation-model-for-images)
+
+  <iframe width="560" height="400" src="https://www.youtube.com/embed/PSVhfTPx0GQ?si=896FMJOYVGSod8Fe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 ![data_demo](assets/images/data_demo.png)
 
