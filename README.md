@@ -45,7 +45,14 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/referring-expression-comprehension-on-refcoco-1)](https://paperswithcode.com/sota/referring-expression-comprehension-on-refcoco-1?p=general-object-foundation-model-for-images)
 
+
+
+
+
+<div align=center>
   <iframe width="560" height="400" src="https://www.youtube.com/embed/PSVhfTPx0GQ?si=896FMJOYVGSod8Fe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 
 
