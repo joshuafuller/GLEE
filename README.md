@@ -11,7 +11,7 @@
 >
 > \* Equal Contribution, <sup>&dagger;</sup>Correspondence
 
-\[[Project Page](https://glee-vision.github.io/)\]   \[[Paper]([https://arxiv.org/abs/2312.09158)\]    \[[HuggingFace Demo](https://huggingface.co/spaces/Junfeng5/GLEE_demo)\]   \[[Video Demo](https://youtu.be/PSVhfTPx0GQ)\]  
+\[[Project Page](https://glee-vision.github.io/)\]  \[[Paper](https://arxiv.org/abs/2312.09158)\]    \[[HuggingFace Demo](https://huggingface.co/spaces/Junfeng5/GLEE_demo)\]   \[[Video Demo](https://youtu.be/PSVhfTPx0GQ)\]  
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/general-object-foundation-model-for-images/long-tail-video-object-segmentation-on-burst-1)](https://paperswithcode.com/sota/long-tail-video-object-segmentation-on-burst-1?p=general-object-foundation-model-for-images)
 
